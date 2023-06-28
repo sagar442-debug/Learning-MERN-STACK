@@ -1,0 +1,16 @@
+# Ignore log files
+*.log
+
+# Ignore the "node_modules" directory
+/node_modules/
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore sensitive or environment-specific files
+config.js
+secrets.env
